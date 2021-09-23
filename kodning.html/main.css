@@ -1,0 +1,124 @@
+body {
+    box-sizing: border-box;
+    font-family: "futura";
+    margin: 0% auto;
+    background-color: rgb(108 140 121 / 84%);
+    text-align: center;
+}
+
+.button {
+    background-color: white;
+    color:rgb(108 140 121 / 84%);
+    padding: 25px;
+    border-radius: 40px;
+    text-transform: uppercase; 
+    font-weight: 60px;
+    border-style: double;
+}
+
+h1 {
+    margin: 20px;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 100;
+    margin-bottom: 50px;
+}
+
+h3{
+    font-size: 40px;
+    margin-bottom: 50px;
+    margin-top: 1px;
+    text-align: center;
+    font-style: normal;
+}
+
+h4{
+    font-size: 20px;
+    font-weight: 20px;
+}
+
+
+.about-me {
+background-color: rgb(108 140 121 / 84%);
+padding: 150px 30px;
+color: white;
+text-align: center;
+}
+
+
+.about-me img {
+    width: 250px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+a:hover{
+    color: black
+}
+
+a:link{
+    color: black;
+}
+
+a:visited {
+    color: rgb(99, 97, 97);
+}
+
+
+.information{
+    padding: 150px 30px;
+    text-align: center;
+    background-color: white;
+}
+
+table{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+
+th{
+text-align: right;
+padding: 10px;
+}
+
+td{
+  text-align: left; 
+  padding: 10px
+}
+
+.skills{
+    background-color: rgb(108 140 121 / 84%);
+    padding: 150px 30px;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    font-style: italic;
+    margin: 50px;
+    margin-top: 5px; 
+}
+
+li {
+    border-style: none;
+    border-bottom-style: double;
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+    margin-top: 5px;
+    list-style-type: none;
+}
+
+footer{
+    background-color: rgb(108 140 121 / 84%);
+    color: black;
+    text-align: center;
+    padding: 50px 20px;
+    text-decoration-color: white;
+}
